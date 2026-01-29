@@ -13,5 +13,10 @@
     <h1>day9</h1>
     <h1>day10</h1>
     <h1>day11</h1>
+    <h1>day12</h1>
+    <h1>day13</h1>
+    <h1>day14</h1>
+    <h1>day15</h1>
+    <h1>day16</h1>
   </div>
 </template>
