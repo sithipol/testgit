@@ -7,5 +7,11 @@
     <h1>day3</h1>
     <h1>day4</h1>
     <h1>day5</h1>
+    <h1>day6</h1>
+    <h1>day7</h1>
+    <h1>day8</h1>
+    <h1>day9</h1>
+    <h1>day10</h1>
+    <h1>day11</h1>
   </div>
 </template>
